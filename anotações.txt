@@ -1,0 +1,12 @@
+Opa, uma breve explicação:
+
+Esse vai ser um ecommerce, o produto vão ser serviços de contrução domiciliares (Hidráulica, elétrica, gessaria, etc), os prestadores de serviços vão ser pessoas PF ou PJ (MEI) que prestam esses serviços.
+
+A empresa basicamente é uma ponte que conecta esses prestadores autônomos com as pessoas que precisam desse serviço.
+
+Para criar as models eu tenho algumas ideias. Tem que ter o User (Pessoa que vai pedir o serviço) e Autonomous (Prestadores de serviço), também vai ter o Services (Serviços), Evaluation (Avaliação), Adress (Endereço).
+
+O cadastro de Autonomous precisa ser bem rigoroso em função da proposta do projeto. É pedido rg, cpf e também certificados opcionais que provam se o autônomo realmente faz aquilo que diz fazer.
+
+(Vamos ver se dá pra incluir um carrinho mas devemos pensar no básico primeiro)
+
